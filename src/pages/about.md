@@ -1,8 +1,10 @@
 ---
 title: About Me
 subtitle: >-
-  Angels in Denim was founded in 2019 by Ananya Agas and her sister, Advaitha
-  Agas. They saw a need to
+  As a founder of this non-profit, I made it my mission to serve the
+  under-privileged, and my first earnings funded the initial costs of this
+  non-profit. I’ve had the good fortune of an upbringing in one of the best
+  neighborhoods. It is my turn to give back.
 img_path: images/about.jpg
 template: page
 ---
