@@ -10,5 +10,7 @@ content_img_path: images/7.jpg
 template: post
 ---
 **Date:** September 7th, 2019
+
 **Location:** San Ramon, CA – Cal High, Pine Valley area
+
 **Shelter:** [Cityteam Shelter](https://https://cityteam.org/oakland/) (Oakland, California)
