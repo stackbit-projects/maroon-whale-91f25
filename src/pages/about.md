@@ -1,5 +1,5 @@
 ---
-title: About Me
+title: About Us
 subtitle: >-
   As a founder of this non-profit, I made it my mission to serve the
   under-privileged, and my first earnings funded the initial costs of this
