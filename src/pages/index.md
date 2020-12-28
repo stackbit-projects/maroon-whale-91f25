@@ -12,10 +12,12 @@ sections:
     type: section_content
     title: About
     content: >-
-      This is the "about" excerpt. It can be used to provide a paragraph about
-      yourself that people can read on the homepage to get a sense of who you
-      are. There also exists a dedicated about page where you can write more
-      about yourself for those who are interested.
+      Angels in Denim is a 501(c)(3) Non-profit organization who are passionate
+      to help the community. We offer support to the under privileged who
+      struggle to make the ends meet. We reach out to the local community,
+      collect donations, raise money to serve the people in need, we vet the
+      shelters and partner with them. We drive to the shelters and hand over the
+      donations in person.
     actions:
       - label: Contact Me
         url: /contact
