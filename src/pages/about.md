@@ -9,4 +9,4 @@ template: page
 
 >I’ve had the good fortune of an upbringing in one of the best neighborhoods. It is my turn to give back. <cite>Ananya Agas</cite>
 
-Since then, Angels in Denim has had one successful donation drive and continues to work on future projects to help the community. Ananya and her team hope to give back to the xommunity in these difficult times and provide a sense of safety and reassurance. 
+Since then, Angels in Denim has had one successful donation drive and continues to work on future projects to help the community. Ananya and her team hope to give back to the community in these difficult times and provide a sense of safety and reassurance. 
