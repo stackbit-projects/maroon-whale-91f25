@@ -19,7 +19,7 @@ sections:
       shelters and partner with them. We drive to the shelters and hand over the
       donations in person.
     actions:
-      - label: Contact Me
+      - label: Contact US
         url: /contact
         style: button
   - section_id: recent-posts
