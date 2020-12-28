@@ -14,3 +14,6 @@ template: post
 **Location:** San Ramon, CA – Cal High, Pine Valley area
 
 **Shelter:** [Cityteam Shelter](https://https://cityteam.org/oakland/) (Oakland, California)
+
+
+This donation drive was conducted mainly throughout the San Ramon/Dublin Area. Our team went door to door collecting used jeans that met the requirements of our flyers, and were able to collect __ pairs of jeans to donate to the Cityteam Shelter in Oakland
