@@ -1,7 +1,7 @@
 ---
 title: About Us
 subtitle: ''
-img_path: images/about.jpg
+img_path: images/IMG_4547.jpg
 template: page
 ---
 
