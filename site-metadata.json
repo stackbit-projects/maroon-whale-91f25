@@ -1,12 +1,12 @@
 {
     "description": "Personal blogging theme for Stackbit",
-    "layout_style": "overflow",
+    "layout_style": "simple",
     "palette": "blue",
     "header": {
-        "title": "Stackbit Fresh",
-        "tagline": "Header Tagline",
-        "profile_img": "images/avatar.png",
-        "background": "dark",
+        "title": "Angels in Denim",
+        "tagline": "Working to help the community, together",
+        "profile_img": "images/AngelsDenimLogo-small.png",
+        "background": "light",
         "has_nav": true,
         "nav_links": [
             {
