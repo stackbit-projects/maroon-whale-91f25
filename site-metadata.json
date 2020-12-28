@@ -1,7 +1,7 @@
 {
     "description": "Personal blogging theme for Stackbit",
     "layout_style": "overflow",
-    "palette": "violet",
+    "palette": "green",
     "header": {
         "title": "Angels in Denim",
         "tagline": "Header Tagline",
