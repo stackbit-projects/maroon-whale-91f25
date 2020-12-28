@@ -1,10 +1,6 @@
 ---
 title: About Us
-subtitle: >-
-  As a founder of this non-profit, I made it my mission to serve the
-  under-privileged, and my first earnings funded the initial costs of this
-  non-profit. I’ve had the good fortune of an upbringing in one of the best
-  neighborhoods. It is my turn to give back.
+subtitle: ''
 img_path: images/about.jpg
 template: page
 ---
