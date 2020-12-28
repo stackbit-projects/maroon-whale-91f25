@@ -1,6 +1,8 @@
 ---
 title: About Me
-subtitle: This is a short page about me and my work.
+subtitle: >-
+  Angels in Denim was founded in 2019 by Ananya Agas and her sister, Advaitha
+  Agas. They saw a need to
 img_path: images/about.jpg
 template: page
 ---
