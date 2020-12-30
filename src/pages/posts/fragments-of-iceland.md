@@ -2,7 +2,7 @@
 title: San Ramon Donation Drive
 excerpt: ''
 date: '2019-09-07'
-thumb_img_path: images/7.jpg
+thumb_img_path: images/charming-dolphin.png
 content_img_path: images/SanRamon-DonationDriveReceipt.png
 template: post
 ---
